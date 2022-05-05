@@ -58,13 +58,13 @@ After merging the past 12 months into one dataset, we could observe a 5+ million
 
 The steps above yielded a 4+ million rows dataset which were saved into a SQL database separated in three tables. All the steps taken for merging, cleaning and analyzing data was uploaded at GitHub for public access. 
 
-To visualize the data merging and cleaning file, access the link:  [“data preparation from Roger’s GitHub”](https://github.com/rogercarelli/Analyses-BikeShareApp/blob/e3402797f6e563b78f53c7b04600d7deabc5b4bc/step-01_data_preparation.ipynb)
+To visualize the _data merging and cleaning file_, access the link:  [“data preparation from Roger’s GitHub”](https://github.com/rogercarelli/Analyses-BikeShareApp/blob/e3402797f6e563b78f53c7b04600d7deabc5b4bc/step-01_data_preparation.ipynb)
 
 For the data analyses, the same programing language (python on jupyter notebook) was used. The analyses consist in working with the SQL database and Pandas Python’s library to identify trends, patterns and discrepancies. To visualize the generated data, the python’s library called Plotly was used, but GitHub is unable to show graphs. For a better understanding, Tableau was used to support the visuals. 
 
-To visualize the analyses file, access the link:  [“data analyses from Roger’s GitHub”](https://github.com/rogercarelli/Analyses-BikeShareApp/blob/e3402797f6e563b78f53c7b04600d7deabc5b4bc/analyses.ipynb)
+To visualize the _analyses_ file, access the link:  [“data analyses from Roger’s GitHub”](https://github.com/rogercarelli/Analyses-BikeShareApp/blob/e3402797f6e563b78f53c7b04600d7deabc5b4bc/analyses.ipynb)
 
-To see the Tableau’s dashboard with all the visuals, access the link: [“data visualization from Roger’s Public Tableau”](https://public.tableau.com/views/Analyses-BikeShareApp/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+To see the _Tableau’s dashboard_ with all the visuals, access the link: [“data visualization from Roger’s Public Tableau”](https://public.tableau.com/views/Analyses-BikeShareApp/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
  
 ## Key findings and recommendations
 xxxxxxx
