@@ -54,7 +54,7 @@ After merging the past 12 months into one dataset, we could observe a 5+ million
 
 * Remove any rows with empty values. 
 * Create a column with the ride duration in seconds.
-  * If the duration is more than 24 hours or less than 5 minutes, the row was removed.
+  * If the duration is more than 24 hours or less than 60 seconds, the row was removed.
 
 The steps above yielded a 4+ million rows dataset which were saved into a SQL database separated in three tables. All the steps taken for merging, cleaning and analyzing data was uploaded at GitHub for public access. 
 
