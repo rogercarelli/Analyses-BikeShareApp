@@ -66,5 +66,31 @@ To visualize the _analyses_ file, access the link:  [“data analyses from Roger
 
 To see the _Tableau’s dashboard_ with all the visuals, access the link: [“data visualization from Roger’s Public Tableau”](https://public.tableau.com/views/Analyses-BikeShareApp/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
  
-## Key findings and recommendations
-xxxxxxx
+# Key findings and recommendations
+## Findings
+
+**Total rides**
+
+The total rides analysed from April 2021 to March 2022 were about 4.5 million trips. From the total we can identify 55,8% of the rides were made by members and 41,2% by casuals.
+
+---
+
+**Time and distance**
+
+The average distance rode by members was 2.1km against 2.2km by casuals. As we can see, the avarage distance is quite similiar and cannot be taken into consideration to differ the user behaviour. On the other hand, the average time spent in a single ride was 27 minutes by casual vs 12 minutes by members. This shows that a casual rider uses a bicycle for more than twice the time compared to members. 
+
+To go even deeper in the analyses, members are quicker riders because they usually use bikes as a way of transportation and less as a leisure activity.  
+
+
+---
+
+**Rides over the week**
+
+The amout of rides during the week seems constant and slightly drops on the weekend for members. This is the evidence that riders use the bikes as transportation and, probably, more often then casuals. 
+
+In contrast, the number of casual rides increases the closer we get to the weekend days. People are more likely to get their leisure time over their dayoff. We can notice a higher volume of rides on fridays, saturdays and sundays. 
+
+
+
+
+
