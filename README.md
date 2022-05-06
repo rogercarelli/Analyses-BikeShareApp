@@ -25,8 +25,10 @@ Moreno has assigned you the first question to answer: How do annual members and 
 * Supporting visualizations and key findings 
 * Your top three recommendations based on your analysis
 
+
 ---
 ---
+
 
 # DOCUMENTATION
 ## Business task 
@@ -65,7 +67,12 @@ For the data analyses, the same programing language (python on jupyter notebook)
 To visualize the _analyses_ file, access the link:  [“data analyses from Roger’s GitHub”](https://github.com/rogercarelli/Analyses-BikeShareApp/blob/e3402797f6e563b78f53c7b04600d7deabc5b4bc/analyses.ipynb)
 
 To see the _Tableau’s dashboard_ with all the visuals, access the link: [“data visualization from Roger’s Public Tableau”](https://public.tableau.com/views/Analyses-BikeShareApp/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
- 
+
+
+---
+---
+
+
 # Key findings and recommendations
 ## Findings
 
@@ -86,11 +93,17 @@ To go even deeper in the analyses, members are quicker riders because they usual
 
 **Rides over the week**
 
-The amout of rides during the week seems constant and slightly drops on the weekend for members. This is the evidence that riders use the bikes as transportation and, probably, more often then casuals. 
+The amout of rides during the week seems constant and slightly drops on the weekend for members. This is the evidence that these riders use the bikes as transportation and, probably, more often then casuals. 
 
 In contrast, the number of casual rides increases the closer we get to the weekend days. People are more likely to get their leisure time over their dayoff. We can notice a higher volume of rides on fridays, saturdays and sundays. 
 
+---
 
+**Rides in the past 12 months**
+
+The total rides increases the hotter the weather gets. Therefore, we can assume people are more likely to ride when its summer or, right before or right after this season. Nevertheless, riders begin to lose intrest in using bike the colder the season becomes.
+
+Also, in July we can see casuals overtaking the number of rides when its peak summer and school holidays. However, on winter time casuals almost disapear and the number of rides are less than one third compared to members.
 
 
 
