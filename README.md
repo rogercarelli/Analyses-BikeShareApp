@@ -109,6 +109,7 @@ Also, in July we can see casuals overtaking the number of rides when its peak su
 2. Cyclistc can offer a summer membership wich would convert part of casual drivers who rides during summer time. This actions can increase the memberships for 3 months and them the company could offer an extension to this membership for a full year. If people get used to ride frequently, they would tend to keep this activity for the next months.
 3. They could offer a discount for signed memberships on winter time. This would increase the volume of rides in the most quite months. 
 
+
 **Additional staudies**
 
 To analyse even futher the user behaviour, we could gather how often riders uses the service over time. This way we can verify if there are casuals who rides too frequent to sign for a membership.
